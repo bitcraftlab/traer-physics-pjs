@@ -14,8 +14,9 @@ They should run inside the Processing IDE — both in Java and Javascript mode.
 - Original examples ported by Martin Schneider
 
 # License
+
 *Use this code for whatever you want, just send me a link jeff@traer.cc*
 
 # TODO
 
-Help me port the other examples! They can be found [here](http://github.com/bitcraftlab/traer-physics/examples).
+Help me port the other examples! They can be found [here](https://github.com/bitcraftlab/traer-physics/tree/master/examples).
