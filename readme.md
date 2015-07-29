@@ -5,7 +5,7 @@ They should run inside the Processing IDE — both in Java and Javascript mode.
 
 # Examples
 
-[![](img/random_arboretum.png)](examples/random_arboretum)
+[![](img/random_arboretum.png)](https://bitcraftlab.github.io/traer-physics-pjs/examples/random_arboretum/web-export/)
 
 # History
 
