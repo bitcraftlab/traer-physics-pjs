@@ -10,8 +10,9 @@ They should run inside the Processing IDE — both in Java and Javascript mode.
 # History
 
 - Based on the original processing plugin by Jeff Traer
-- Ported to *Processing.js* by Carl Paerson — see [here](http://svbreakaway.info/tp-downloads.php).
-- Original examples ported by Martin Schneider
+- Ported to *Processing.js* by Mike Niemi — see [here](http://svbreakaway.info/tp-downloads.php)
+- Improvements by Mike Niemi and Carl Paerson 
+- Original example ported by Martin Schneider
 
 # License
 
